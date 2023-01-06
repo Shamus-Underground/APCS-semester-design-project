@@ -1,0 +1,10 @@
+public class Stop {
+public boolean digitalDisplay;
+public int seats;
+public int bikeRacks;
+public boolean shelter;
+public boolean heating;
+public boolean AC;
+public int routes;
+
+}
