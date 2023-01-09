@@ -1,7 +1,0 @@
-public class BusTester {
-	public static void main(String[] args)
-	{
-		Bus SL3=new Bus("SL3", "Chelsea", "South Station", true);
-		System.out.print(SL3.toString());
-	}
-}
